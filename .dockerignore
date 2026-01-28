@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+Dockerfile.backend
+Dockerfile.frontend
+docker-compose.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
